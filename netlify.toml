@@ -2,3 +2,7 @@
   functions = "functions/"
   publish = "build/"
   command = "yarn build"
+
+[[redirects]]
+  from = "/api/*"
+  to = "/.netflify/functions/:splat
