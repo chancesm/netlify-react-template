@@ -5,4 +5,4 @@
 
 [[redirects]]
   from = "/api/*"
-  to = "/.netflify/functions/:splat
+  to = "/.netflify/functions/:splat"
